@@ -1,0 +1,9 @@
+.mail-info {
+    border: solid #d8d8d8 1px;
+}
+.mail-info .row .header {
+    background: #e4e4e4;
+}
+.mail-info .row .content {
+    padding-left: 30px;
+}
